@@ -1,0 +1,21 @@
+{
+  "project_name": "Overlord AI Video",
+  "milestones": [
+    {
+      "phase": "Q1: Foundation",
+      "goals": ["Core AI Scene Detection", "Automated Subtitle Engine", "MVP Launch"]
+    },
+    {
+      "phase": "Q2: Intelligence Update",
+      "goals": ["Face-Tracking Auto-Crop", "Viral Score Prediction Engine", "API Beta"]
+    },
+    {
+      "phase": "Q3: Ecosystem Expansion",
+      "goals": ["Direct Publishing to TikTok/Reels", "Multi-language Support (Thai, English, Japanese)", "B2B Dashboard"]
+    },
+    {
+      "phase": "Q4: Market Leadership",
+      "goals": ["Live Stream Real-time Clipping", "Generative AI B-Roll Insertion", "Series A Funding"]
+    }
+  ]
+}
