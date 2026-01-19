@@ -1,0 +1,15 @@
+{
+  "examples": [
+    {
+      "input_context": "Podcast segment discussing AI replacement of jobs.",
+      "transcript_snippet": "[00:12:05] Speaker A: I think people are scared. [00:12:08] Speaker B: They should be. If you are doing manual data entry in 2024, you aren't just at risk, you are already obsolete. The AI doesn't sleep and it costs $20 a month. That's the reality no one wants to hear.",
+      "ideal_output": {
+        "start_time": 12.08,
+        "end_time": 12.25,
+        "hook": "Controversial/Fear-based claim: 'You are already obsolete.'",
+        "virality_score": 9,
+        "on_screen_text": ["YOU ARE OBSOLETE", "The $20/month replacement", "The Harsh Reality"]
+      }
+    }
+  ]
+}
