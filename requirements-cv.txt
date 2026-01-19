@@ -1,0 +1,5 @@
+opencv-python-headless==4.8.0.76
+mediapipe==0.10.3
+numpy==1.24.3
+scipy==1.10.1
+moviepy==1.0.3
